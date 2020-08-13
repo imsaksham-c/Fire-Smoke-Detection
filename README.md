@@ -53,6 +53,9 @@ Matplotlib
 
 Numpy
 
+### Upcoming Work - 
+RestAPI (rest api using flask)
+
 ### References
 1. PyImageSearch - https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/
-2. https://github.com/DeepQuestAI/Fire-Smoke-Dataset
+2. DeepQuestAI/Fire-Smoke-Dataset - https://github.com/DeepQuestAI/Fire-Smoke-Dataset
