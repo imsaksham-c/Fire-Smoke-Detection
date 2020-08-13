@@ -29,6 +29,8 @@ For more info about training and graphs - open Training.ipynb
 
 ![Model Accuracy](https://github.com/imsaksham-c/Fire-Smoke-Detection/blob/master/utils/accuracy.png)
 
+Trained model is present in 'trained-models' folder
+
 ### Sample Results
 ![](https://github.com/imsaksham-c/Fire-Smoke-Detection/blob/master/utils/fire.png)
 ![](https://github.com/imsaksham-c/Fire-Smoke-Detection/blob/master/utils/smoke.png)
@@ -42,9 +44,13 @@ For more info about training and graphs - open Training.ipynb
 
 ### Requirements - 
 Python3
+
 PyTorch
+
 OpenCV
+
 Matplotlib
+
 Numpy
 
 ### References
